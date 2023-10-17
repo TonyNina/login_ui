@@ -1,6 +1,6 @@
 # login_ui
 
-A new Flutter project.
+It's a new Flutter project of modern Login UI. 
 
 ## Getting Started
 
